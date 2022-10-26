@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: #008f8d;
+}
+
+ul li {
+    color: #008f8d;
+}
+
+footer {
+    width: 100%;
+    position: relative;
+    clear: both;
+    height: 80px;
+    margin-top: 0;
+    padding-top: visible;
+    background-color: #ffd03c;
+}
+
+#margen {
+    text-align: justify;
+    margin: 4%;
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 80%;
+
+}
+
+#img{
+    width: 150px;
+    height: 160px;
+}
